@@ -1,0 +1,17 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ghost.js",
+  "scripts": {
+    "start": "node ghost.js"
+  },
+  "engines": {
+    "node": "16.6"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aoi.js": "^5.1.2"
+  }
+}
